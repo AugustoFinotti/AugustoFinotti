@@ -15,10 +15,10 @@
  
   <br><br><br>
   
-   ### <p align="center"> 🛠 &nbsp; Tools &nbsp; 🛠 </p>
+   ### 🛠 &nbsp; Tools &nbsp; 🛠 
    
    <hr>
-    <div align="center">
+    <div>
      <!-- HTML5 -->
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
      <!-- CSS3 -->
@@ -43,11 +43,8 @@
       VSCODE <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
      -->
     </div>  
-
-  <br><br>
+  <br>
   
-  <div align="center">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFinotti&layout=compact&hide_title=true&theme=github_dark">
-  </div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFinotti&theme=dark)](https://github.com/AugustoFinotti/github-readme-stats)
   
  [//]: <(https://github.com/AugustoFinotti/AugustoFinotti/blob/output/github-contribution-grid-snake.svg)>
