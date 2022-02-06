@@ -15,7 +15,13 @@
  
   <br><br><br>
   
-   ### 🛠 &nbsp; Tools &nbsp; 🛠 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Card](https://github-readme-stats.vercel.app/api?username=AugustoFinotti&theme=dark&show_icons=true)](https://github.com/AugustoFinotti/)
+&nbsp;&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFinotti&theme=dark)](https://github.com/AugustoFinotti/github-readme-stats)
+  
+  <div style: align="center">
+   <h3> 🛠 &nbsp; Tools &nbsp; 🛠</h3> 
    
    <hr>
     <div>
@@ -42,9 +48,8 @@
       FIGMA <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
       VSCODE <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
      -->
-    </div>  
+    </div>
+   </div>
   <br>
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFinotti&theme=dark)](https://github.com/AugustoFinotti/github-readme-stats)
   
  [//]: <(https://github.com/AugustoFinotti/AugustoFinotti/blob/output/github-contribution-grid-snake.svg)>
