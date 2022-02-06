@@ -1,4 +1,4 @@
- ## <p align="center"> Olá, deixe eu me apresentar...</p><br>
+ ## <p align="center"> Olá! deixe eu me apresentar...</p><br>
 
    <h4 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h4>
    <h4 align="center"> 📌 &nbsp;&nbsp; Interessado em Desenvolvimento Web</h4>
