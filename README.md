@@ -1,9 +1,9 @@
- ## <p align="center"> Olá! deixe eu me apresentar...</p><br>
-
-   <h4 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h4>
-   <h4 align="center"> 📌 &nbsp;&nbsp; Interessado em Desenvolvimento Web</h4>
-   <h4 align="center"> 📚 &nbsp;&nbsp; Estou estudando GIT, HTML, CSS, PHP, cursando Segurança da Informação</h4>
-   <h4 align="center"> 🏠 &nbsp;&nbsp; Ourinhos, SP - Brasil</h4>
+ <h1 align="center"> Olá! deixe eu me apresentar...</h1>
+<br>
+   <h3 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h3>
+   <h3 align="center"> 📌 &nbsp;&nbsp; Interessado em Desenvolvimento Web</h3>
+   <h3 align="center"> 📚 &nbsp;&nbsp; Estudando GIT, HTML, CSS, Linux, cursando Segurança da Informação</h3>
+   <h3 align="center"> 🏠 &nbsp;&nbsp; Ourinhos, SP - Brasil</h3>
 
 <br>
 
@@ -22,9 +22,8 @@
   
   <div style: align="center">
    <h3> 🛠 &nbsp; Tools &nbsp; 🛠</h3> 
-   
    <hr>
-    <div>
+   <div>
      <!-- HTML5 -->
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
      <!-- CSS3 -->
@@ -48,8 +47,9 @@
       FIGMA <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
       VSCODE <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
      -->
-    </div>
+   </div>
    </div>
   <br>
   
+ <!-- Cobrinha dos commits com bug -->
  [//]: <(https://github.com/AugustoFinotti/AugustoFinotti/blob/output/github-contribution-grid-snake.svg)>
