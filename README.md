@@ -1,4 +1,4 @@
- <h1 align="center"> Olá! deixe eu me apresentar...</h1>
+ <h1 align="center"> Olá! Deixe eu me apresentar...</h1>
 <br>
    <h3 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h3>
    <h3 align="center"> 📚 &nbsp;&nbsp; Estudando Python, e Cyber Segurança</h3>
