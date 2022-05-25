@@ -1,7 +1,7 @@
  <h1 align="center"> Olá! deixe eu me apresentar...</h1>
 <br>
    <h3 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h3>
-   <h3 align="center"> 📚 &nbsp;&nbsp; Estudando Python, Linux, cursando Segurança da Informação</h3>
+   <h3 align="center"> 📚 &nbsp;&nbsp; Estudando Python, e Cyber Segurança</h3>
    <h3 align="center"> 🏠 &nbsp;&nbsp; Ourinhos, SP - Brasil</h3>
 
 <br>
