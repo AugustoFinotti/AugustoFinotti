@@ -3,7 +3,6 @@
    <h3 align="center"> 👋 &nbsp;&nbsp; Sou Augusto Finotti Oliveira</h3>
    <h3 align="center"> 💼 &nbsp;&nbsp; Atualmente trabalho como Técnico em Informática</h3>
    <h3 align="center"> 📚 &nbsp;&nbsp; Estudo Cyber Segurança, Redes e Cloud Computing</h3>
-   <h3 align="center"> 🏠 &nbsp;&nbsp; Moro Ourinhos, SP - Brasil</h3>
 
 <br>
 
